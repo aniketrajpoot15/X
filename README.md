@@ -2,6 +2,9 @@
 
 A responsive clone of the X (formerly Twitter) homepage, built using HTML and Tailwind CSS.
 
+## Live Demo
+https://x-rho-wheat.vercel.app/
+
 ## 🚀 Features
 - **Responsive Layout:** Three-column layout mimicking the original X web design.
 - **Sticky Sidebars:** Left sidebar (navigation) and right sidebar (trends/who to follow) stick to the screen while scrolling.
